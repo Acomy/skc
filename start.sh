@@ -1,0 +1,1 @@
+cd /usr/local/eureka && java -jar *.jar --spring.config.location=application.yml
